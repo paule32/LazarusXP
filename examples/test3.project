@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project os="vice" arch="c64" bits="16" main="main.bas" make="test2" type="basic">
+  <forms>
+    <file></file>
+  </forms>
+  <files>
+    <file>main.bas</file>
+  </files>
+</project>
